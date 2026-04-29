@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Button mashing
 
 ## How to test
 
-Explain how to use your project
+Button mashing
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+I Like Yellow Dogs such as Jake the stretchy one and the shiny version of Riolu
